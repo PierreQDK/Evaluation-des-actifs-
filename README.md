@@ -1,4 +1,4 @@
-# Evaluation-des-actifs
+# Analyse annuelle de dix titres financiers
 
 ## Présentation
 
@@ -21,8 +21,7 @@ Ce projet vise à analyser la performance de dix actifs financiers, incluant neu
 https://drive.google.com/file/d/1lsYNbSwyUsiozAmjj-Zz8goGfkJBqfKf/view?usp=sharing
 
 
-
-## Technologies utilisées
+## Langages de programmation
 
 **Langage :** R
 
